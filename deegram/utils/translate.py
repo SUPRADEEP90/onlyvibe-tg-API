@@ -2,7 +2,7 @@ VERSION = "2022.1"
 CREATOR = "SUPRADEEP GUHA, OnlyVIBE & DNAnTech"
 BOT_NAME = "OnlyVIBE Music"
 WELCOME_MSG = (
-	f"Thanks for using {BOT_NAME} ;  Stream over 90 Million+ Songs for free! Just OnlyVIBE It, Baby!\n\n"
+	f"Thanks for using {BOT_NAME}  | Stream over 90 Million+ Songs for free! Just OnlyVIBE It, Baby!\n\n"
 	"Click /help for more information."
 )
 INFO_MSG = (
